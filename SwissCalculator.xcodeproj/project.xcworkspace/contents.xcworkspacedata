@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../SwissCalculator/appIcon@1024x1024.png">
+   </FileRef>
+   <FileRef
+      location = "group:../SwissCalculator/appIcon@167x167.png">
+   </FileRef>
+   <FileRef
+      location = "group:../SwissCalculator/appIcon@152x152.png">
+   </FileRef>
+   <FileRef
+      location = "group:../SwissCalculator/appIcon@76x76.png">
+   </FileRef>
+   <FileRef
+      location = "group:../SwissCalculator/appIcon@80x80.png">
+   </FileRef>
+   <FileRef
+      location = "group:../SwissCalculator/AppIcon@58x58.png">
+   </FileRef>
+   <FileRef
+      location = "group:../SwissCalculator/appIcon@29x29.png">
+   </FileRef>
+   <FileRef
+      location = "group:../SwissCalculator/appIcon@40x40.png">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>

@@ -1,6 +1,6 @@
 # SwissCalculator
 
-### A swiss  calculator that can gives you some features:
+### A swiss  calculator that can give you some features:
 
 * plus
 * minus

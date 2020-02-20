@@ -22,7 +22,7 @@
 
 * You can report any bugs if you find and you can give a feature request too.
 
-# Spceial Thanks / Developers
+# Special Thanks / Developers
 ### [@shiar_ahmed](https://twitter.com/shiar_ahmed) - App Development
 ### [@ahmad_altarifi9](https://twitter.com/ahmad_altarifi9) - App Development
 ### [@Mudi4_7](https://twitter.com/mudi4_7) - App Design
